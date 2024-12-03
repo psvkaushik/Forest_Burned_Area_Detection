@@ -20,4 +20,6 @@ It beats the baseline provided by the paper by a significant margin as shown in 
 |---------------------|----------|-----|
 | UNet (Weighted Concat)      | 88%      | 67% |
 | UNet     | 62%      | 49.5% |
+
+
 The code with various experiments run can be found in the notebooks in the [`notebooks/Change_Detection`](./notebooks/Change_Detection) directory.
